@@ -13,10 +13,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          My links
-        </p>
+        <Canvas></Canvas>
         <a
           className="main-link"
           href="https://www.linkedin.com/in/%C3%B8yvind-brakstad-5b4061159/"
@@ -25,7 +22,18 @@ function App() {
         >
           LinkedIn
         </a>
-        <Canvas></Canvas>
+        <a
+          className="main-link"
+          href="https://github.com/Brakistad"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Github
+        </a>
+        <p>
+          
+
+        </p>
       </header>
     </div>
   );

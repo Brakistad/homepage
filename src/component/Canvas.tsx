@@ -35,8 +35,8 @@ function drawMouse(canvas: HTMLCanvasElement) {
 
   function drawLine(ctx: CanvasRenderingContext2D, x1: number, y1: number, x2: number, y2: number) {
     ctx.beginPath()
-    ctx.strokeStyle = '#F78277'
-    ctx.lineWidth = 2
+    ctx.strokeStyle = '#40B3A2'
+    ctx.lineWidth = 4
     ctx.moveTo(x1, y1)
     ctx.lineTo(x2, y2)
     ctx.stroke()

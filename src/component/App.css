@@ -27,7 +27,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #F78277;
+  color: #E27D5F;
 }
 
 .canvas {
@@ -38,7 +38,7 @@
 }
 
 .main-link {
-  color: #F78277;
+  color: #E27D5F;
 }
 
 @keyframes App-logo-spin {
