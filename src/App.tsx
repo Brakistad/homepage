@@ -18,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          Guess i need to implement a interactive resume
+        </p>
       </header>
     </div>
   );
